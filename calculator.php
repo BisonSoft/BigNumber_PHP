@@ -1,10 +1,10 @@
 <?php
 //***************************
-//Description: Arbitrary Size Number Calculator Class
-//Version 0.1.0
-//Author: BisonSoft 2017
-//Link: https://github.com/BisonSoft/BigNumber_PHP
-//License: MIT License (https://github.com/BisonSoft/BigNumber_PHP/blob/master/LICENSE)
+// Description: Arbitrary Size Number Calculator Class
+// Version 0.1.0
+// Author: BisonSoft 2017
+// Link: https://github.com/BisonSoft/BigNumber_PHP
+// License: MIT License (https://github.com/BisonSoft/BigNumber_PHP/blob/master/LICENSE)
 //***************************
 
 class Calculator
